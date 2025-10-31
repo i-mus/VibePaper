@@ -1,0 +1,5 @@
+{
+  "name": "VibePaper Generator",
+  "description": "A mobile-first web app for generating phone wallpapers. Users describe their current desired vibe (e.g., \"rainy cyberpunk lo-fi\") and the app generates 4 variations. Users can view images full screen, download them, or remix the idea to generate new variations.",
+  "requestFramePermissions": []
+}
